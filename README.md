@@ -27,8 +27,8 @@ The invention is coupled with a synthesizer, allowing the user to create music u
 
 ## Project Structure
 
-    | csv_files           |   Simplified and generated EEG signal datasets           |
-    | ------------------- |--------------------------------------------------------- |
-    | preprocessing.ipynb |   Preprocessing Notebook(*in progress*)                  |
-    | sound.ipynb         |   Converted Alpha/Theta signal data to musical notes     |
+ csv_files           | Simplified and generated EEG signal datasets           
+  ------------------ | ----------------------------------------------- 
+ preprocessing.ipynb | Preprocessing Notebook(*in progress*)                  
+ sound.ipynb         | Converted Alpha/Theta signal data to musical notes     
 
