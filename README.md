@@ -26,11 +26,9 @@ The invention is coupled with a synthesizer, allowing the user to create music u
 4. [A Simplified Encephalophone](https://psycnet.apa.org/doi/10.1126/science.105.2721.216)
 
 ## Project Structure
-+-------------------+----------------------------------------------------------+
-|   csv_files       |   Simplified and generated EEG signal datasets           |
-+===================+==========================================================+
-|preprocessing.ipynb|   Preprocessing Notebook(*in progress*)                  |
-+-------------------+----------------------------------------------------------+
-|   sound.ipynb     |   Converted Alpha/Theta signal data to musical notes     |
-+-------------------+----------------------------------------------------------+
+
+    | csv_files           |   Simplified and generated EEG signal datasets           |
+    | ------------------- |--------------------------------------------------------- |
+    | preprocessing.ipynb |   Preprocessing Notebook(*in progress*)                  |
+    | sound.ipynb         |   Converted Alpha/Theta signal data to musical notes     |
 
