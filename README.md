@@ -19,6 +19,8 @@ The invention is coupled with a synthesizer, allowing the user to create music u
 9. - [ ] (Optional) Decipher the music notes by music fingerprinting to find the similiar song.
 10. - [ ] (Optional) Streamlining the processes.
 
+**[This](https://github.com/kritika-srivastava/Encephalophone/blob/master/Brain_Waves.mid) is the generated music file .**
+
 ## Research paper references
 1. [The Encephalophone: A Novel Musical Biofeedback Device using Conscious Control of Electroencephalogram (EEG)](https://doi.org/10.3389/fnhum.2017.00213)
 2. [Encephalophone - Google Patents](https://patents.google.com/patent/US20160027423A1/en)
